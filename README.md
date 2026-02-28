@@ -1,5 +1,5 @@
 # FUTURE_ML_02
-Future Interns Internship-Task 1
+Future Interns Internship-Task 2
 # FUTURE INTERNS – TASK 2  
 ## Support Ticket Classification
 
